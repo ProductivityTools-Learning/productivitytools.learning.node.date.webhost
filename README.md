@@ -1,7 +1,7 @@
 <!--Category:C#--> 
  <p align="right">
     <a href="http://productivitytools.tech/"><img src="Images/Header/ProductivityTools_green_40px_2.png" /><a> 
-    <a href="https://github.com/ProductivityTools-Tasks3/ProductivityTools.GetTask3.Contract"><img src="Images/Header/Github_border_40px.png" /></a>
+    <a href="https://github.com/ProductivityTools-Learning/productivitytools.learning.node.date.webhost"><img src="Images/Header/Github_border_40px.png" /></a>
 </p>
 <p align="center">
     <a href="http://http://productivitytools.tech/">
@@ -11,6 +11,10 @@
 
 # Node date webhost
 
-I am learning how to debug npm packages
+This is a simple example of referencing my own npm package.
 
 <!--more-->
+
+Page is simple: it invokes method from the package and prints it on the screen.
+
+![](Images/2023-03-18-10-47-36.png)
