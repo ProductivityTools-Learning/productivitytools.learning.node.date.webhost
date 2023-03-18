@@ -14,7 +14,7 @@ function App() {
     <div>
       <p>hello current date:{getFormattedDate()}</p>
       UpdatedDate: {date}
-      <button onClick={updateDate} >Update one date</button>
+      <button onClick={updateDate} >Update date</button>
     </div>
   );
 }
